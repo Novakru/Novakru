@@ -7,7 +7,7 @@
 <summary><b>Nankai University</b> (2022 – 2026)</summary>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=B.E.+in+Computer+Science;Database+%26+Compiler+%26+OS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=Undergraduate+in+CS;Database+%26+Compiler+%26+OS" alt="Typing SVG" />
 </p>
 </details>
 
@@ -15,7 +15,7 @@
 <summary><b>Zhejiang University</b> (2026 – 2029, expected)</summary>
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=00C7B7&center=true&vCenter=true&width=435&lines=M.E.+in+Artificial+Intelligence;Computer+Vision+%26+VLA+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=500&color=00C7B7&center=true&vCenter=true&width=435&lines=Master+in+Artificial+Intelligence;Computer+Vision+%26+VLA+Research" alt="Typing SVG" />
 </p>
 </details>
 
