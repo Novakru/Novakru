@@ -33,7 +33,7 @@
 </div>
 
 
-
+<!--
 ### 🚀 Projects
 | Project | Timeline | Tech Stack | Highlights |
 |---------|----------|------------|------------|
@@ -65,6 +65,7 @@
 ![LLVM](https://img.shields.io/badge/-LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+-->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Novakru/Novakru/output/github-contribution-grid-snake-dark.svg">
