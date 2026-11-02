@@ -1,4 +1,4 @@
-
+<!--
 ## 👋 Hi, I'm Jiahao Jiang (Novakru)
 
 ### 🎓 Education
@@ -31,6 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Novakru&show_icons=true&theme=default&hide_border=true" style="margin-bottom: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novakru&layout=compact&theme=default&hide_border=true" style="margin-top: 5px;"/>
 </div>
+-->
 
 
 <!--
