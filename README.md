@@ -76,5 +76,4 @@
 
 
 
-![Novakru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novakru&show_icons=true&rank_icon=github)
-
+![Novakru's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Novakru&show_icons=true&rank_icon=github)
