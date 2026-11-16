@@ -73,3 +73,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Novakru/Novakru/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Novakru/Novakru/output/github-contribution-grid-snake.svg">
 </picture> -->
+
+
+
+![Novakru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Novakru&show_icons=true&rank_icon=github)
+
